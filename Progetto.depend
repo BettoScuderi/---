@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1622988340 source:c:\users\alber\desktop\progetto programmazione\progetto2.0\progetto\main.cpp
+	<conio.h>
+	<string>
+	<iostream>
+	<string>
+	<windows.h>
+	<time.h>
+	<ctime>
+	<unistd.h>
+
+1622284498 source:c:\users\alber\desktop\progetto programmazione\progetto2.0\progetto\mappa.cpp
+	<iostream>
+
+1622457152 source:c:\users\alber\desktop\progetto programmazione\progetto2.0\progetto\livello.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
